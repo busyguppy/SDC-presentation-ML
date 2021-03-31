@@ -50,7 +50,7 @@ kivy-deps.gstreamer==0.1.18
 kivy-deps.sdl2==0.1.23
 Kivy-Garden==0.1.4
 kiwisolver==1.1.0
-lxml==4.4.2
+lxml==4.6.3
 Markdown==3.1.1
 MarkupSafe==1.1.1
 matplotlib==3.1.2
